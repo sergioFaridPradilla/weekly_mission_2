@@ -1,3 +1,5 @@
+
+
 console.log("Objeto con método que recibe parámetros")
 
 const myPet = {
